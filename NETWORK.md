@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Crypto Arbitrage
 
-**ai-crypto-arbitrage** is part of the Zion Tech Group app network (630+ apps).
+Cross-exchange cryptocurrency arbitrage detection.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) · [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite)
 
-## Related apps
-- [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) — Arbitrage detection across markets
-- [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) — Crypto tracking and predictive insights
-- [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) — Blockchain analytics and DeFi optimization
-- [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) — Real-time fraud detection
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
